@@ -1,0 +1,7 @@
+{
+  "name": "npmpkg-pluralize",
+  "version": "1.0.0",
+  "description": "Pluralize or singularize any word based on a count",
+  "author": "wangweihua@vipkid.com.cn",
+  "license": "ISC"
+}
